@@ -41,11 +41,11 @@ header p#especial {
 
 header p#whats {
     color: red;
-    font-size: 3vw;
+    font-size: 4vw;
 }
 
 header > p {
-    padding: 10px 5px 0px 5px;    
+    padding: 0px 10px 10px 10px;
 }
 
 section {
