@@ -42,6 +42,7 @@ header p#especial {
 header p#whats {
     color: red;
     font-size: 4vw;
+    margin: auto;
 }
 
 header > p {
