@@ -101,7 +101,7 @@ button {
     font-family: var(--valores);
     background-color: red;
     padding: 10px;
-    width: 17vw;
+    width: 20vw;
     text-align: center;
     text-shadow: 1px 1px rgba(0, 0, 0, 0.401);
     box-shadow: 2px 2px rgba(0, 0, 0, 0.477);
