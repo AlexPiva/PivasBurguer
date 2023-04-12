@@ -16,10 +16,6 @@
     padding: 0px;
 }
 
-body {
-    background-image: url();
-}
-
 body, html {
     min-height: 100vh;
     background-color: darkgray;
@@ -49,7 +45,7 @@ header p#whats {
 }
 
 header > p {
-    padding-top: 10px;    
+    padding: 10px 5px 0px 5px;    
 }
 
 section {
@@ -69,7 +65,7 @@ section p {
     text-align: justify;
     font-family: var(--conteudo);
     font-size: 2.5vw;
-    padding-bottom: 10px;
+    padding: 0px 10px 10px 10px;
 }
 
 section h1, h2 {
@@ -81,7 +77,7 @@ section h2 {
     font-family: var(--valores);
     background-color: red;
     padding: 10px;
-    max-width: 250px;
+    max-width: 15vw;
     text-align: center;
     margin: auto;
     color: white;
