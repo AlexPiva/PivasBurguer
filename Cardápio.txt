@@ -1,0 +1,29 @@
+Descrição: Deliciosos Hambúrgueres assados na BRASA, elaborados com blend especial de carnes selecionadas, feitos com amor, higiene e carinho que você merece!!!
+Pães super macios, com receita secreta, feitos por nós todos os dias.
+Faça seu pedido e desfrute da melhor experiência com uma explosão de sabores que você jamais esquecerá!
+
+#1 SUPER KIDS BÚRGUER – 2 KIDS BÚRGUER, 2 batatas fritas, 2 refrigerantes e 2 pudins de baunilha. R$35,00
+
+#2 CASAL BÚRGUER – 2 BÚRGUER, 2 batatas fritas, 2 refrigerantes e 2 pudins de baunilha. R$45,00
+
+#3 CASAL DUPLO BÚRGUER – 2 DUPLO BÚRGUER, 2 batatas fritas, 2 refrigerantes e 2 pudins de baunilha. R$55,00
+
+#4 COMBO KIDS BÚRGUER - 1 saboroso hambúrguer de 75g assado na BRASA, pão com gergelim super macio (produção própria), queijo e molho especial. Acompanhado de batatas fritas, refrigerante e um delicioso pudim de baunilha (produção própria). R$20,00
+
+#5 COMBO BÚRGUER - 1 saboroso hambúrguer de 100g assado na BRASA, pão com gergelim super macio (produção própria), queijo, molho especial, cebola e tomate. Acompanhado de batatas fritas, refrigerante e um delicioso pudim de baunilha (produção própria). R$25,00
+
+#6 COMBO DUPLO BÚRGUER - 2 saborosos hambúrgueres de 100g assados na BRASA, pão com gergelim super macio (produção própria), queijo duplo, molho especial, cebola e tomate. Acompanhado de batatas fritas, refrigerante e um delicioso pudim de baunilha (produção própria). R$30,00
+
+#7 KIDS BÚRGUER - 1 saboroso hambúrguer de 75g assado na BRASA, pão com gergelim super macio (produção própria), queijo e molho especial. R$8,00
+
+#8 BÚRGUER - 1 saboroso hambúrguer de 100g assado na BRASA, pão com gergelim super macio (produção própria), queijo, molho especial, cebola e tomate. R$15,00
+
+#9 DUPLO BÚRGUER - 2 saborosos hambúrgueres de 100g assados na BRASA, pão com gergelim super macio (produção própria), queijo duplo, molho especial, cebola e tomate. R$20,00
+
+#10 Bebidas – Super geladas!
+
+#11 Batatas Fritas – Crocantes por fora e macias por dentro!
+
+#12 Pudim de Baunilha – Delicioso Pudim de Baunilha com calda de caramelo, receita própria desenvolvida para seu paladar refinado.
+
+
