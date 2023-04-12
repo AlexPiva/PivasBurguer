@@ -97,14 +97,28 @@ section.par {
     text-shadow: 1px 1px black;
 }
 
-a {
+a.normal {
     text-decoration: none;
     font-weight: bolder;
     color: red;
 }
 
-a:hover {
+a.normal:hover {
     text-decoration: underline;
+}
+
+h2 a {
+    text-decoration: none;
+    color: white;
+    text-shadow: none;
+}
+
+h2 a:hover {
+    color: red;
+}
+
+h2:hover {    
+    background-color: white;
 }
 
 footer {
