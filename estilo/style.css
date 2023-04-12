@@ -43,6 +43,11 @@ header p#especial {
     color: yellow;
 }
 
+header p#whats {
+    color: red;
+    font-size: 3vw;
+}
+
 header > p {
     padding-top: 10px;    
 }
